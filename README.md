@@ -1,6 +1,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <div align="center">
-    <a href="https://discord.com/users/1180164009505333294" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/1180164009505333294"></a>
+    <a href="https://discord.com/users/1180164009505333294" title="Discord Account"><img src="https://lanyard.cnrad.dev/api/743929637930795068?borderRadius=5px&amp;idleMessage=silencing%20my%20e-opps&amp;bg=a&amp;animated=true&amp;hideDiscrim=true&amp;hideStatus=true&amp;"></a>
 </div>
 
 ```python

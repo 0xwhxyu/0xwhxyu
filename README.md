@@ -17,7 +17,7 @@ def  __social__(self):
  ┌──(Whxyuu@root)-[~/]
  └─$
 ```
-<p align="center"><img src="https://count.getloli.com/get/@:1337hz" alt=":1337hz" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:0xwhxyu" alt=":0xwhxyu" /></p>
 
  
 
